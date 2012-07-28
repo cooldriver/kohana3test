@@ -9,6 +9,7 @@ class Controller_Welcome extends Controller {
      */
 	public function action_index()
 	{
+        // Commentaire inutil
 		$this->response->body('hello, world! How are you? Good, and you?');
 	}
 
