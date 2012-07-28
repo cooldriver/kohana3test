@@ -2,6 +2,11 @@
 
 class Controller_Welcome extends Controller {
 
+    /**
+     * Méthode principale
+     * 
+     * @return      void 
+     */
 	public function action_index()
 	{
 		$this->response->body('hello, world! How are you? Good, and you?');
