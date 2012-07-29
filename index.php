@@ -7,7 +7,7 @@
  * @see  http://kohanaframework.org/guide/about.install#application
  */
 $application = 'application';
-
+// Test dans master
 /**
  * The directory in which your modules are located.
  *
