@@ -8,6 +8,7 @@
  */
 $application = 'application';
 // Test dans master
+// Test conflit 1
 /**
  * The directory in which your modules are located.
  *
