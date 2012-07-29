@@ -22,7 +22,7 @@ $modules = 'modules';
  * @see  http://kohanaframework.org/guide/about.install#system
  */
 $system = 'system';
-
+// Correctif hotfix
 /**
  * The default extension of resource files. If you change this, all resources
  * must be renamed to use the new extension.
