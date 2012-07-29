@@ -14,7 +14,7 @@ $application = 'application';
  * @see  http://kohanaframework.org/guide/about.install#modules
  */
 $modules = 'modules';
-
+// Correction test prob53
 /**
  * The directory in which the Kohana resources are located. The system
  * directory must contain the classes/kohana.php file.
@@ -45,7 +45,7 @@ define('EXT', '.php');
  * deprecated notices. Disable with: E_ALL & ~E_DEPRECATED
  */
 error_reporting(E_ALL | E_STRICT);
-
+// modification dans prob53
 /**
  * End of standard configuration! Changing any of the code below should only be
  * attempted by those with a working knowledge of Kohana internals.
