@@ -14,7 +14,7 @@ $application = 'application';
  * @see  http://kohanaframework.org/guide/about.install#modules
  */
 $modules = 'modules';
-
+// Correction test prob53
 /**
  * The directory in which the Kohana resources are located. The system
  * directory must contain the classes/kohana.php file.
